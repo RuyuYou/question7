@@ -1,5 +1,3 @@
-'use strict';
-
 function fibonacci_series(n) {
     var fibonacciNumber = buildFibonacciNumber(n);
     return fibonacciNumber;
